@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1548429680 source:e:\programming\moshpit genetic\src\genetic_algorithm.cpp
+	"..\include\genetic_algorithm.h"
+
+1548427962 e:\programming\moshpit genetic\include\genetic_algorithm.h
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<string>
+	"..\include\individual.h"
+
+1548427769 e:\programming\moshpit genetic\include\individual.h
+	<cstdlib>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1548430248 source:e:\programming\moshpit genetic\src\individual.cpp
+	"../include/individual.h"
+
+1548430118 source:e:\programming\moshpit genetic\src\main.cpp
+	"../include/genetic_algorithm.h"
+
